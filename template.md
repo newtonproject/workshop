@@ -16,7 +16,7 @@
 
 - #### Total time
 
-- #### Detail Schedule
+- #### Detail schedule
   - ##### e.g: Day1: xx July
 
     | Time          | Activity                                   |
@@ -29,11 +29,11 @@
 
 ### Participate
 
-- #### Who Should Attend
+- #### Who should attend
 
   - Digital currency projects
   - Blockchain developer
   - Interested in metaverse
 
-- #### How to Participate
+- #### How to participate
   - Add a comment(your email) to issue #XX.

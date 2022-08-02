@@ -49,7 +49,7 @@
 
 - #### Participate way
 
-  - Online (Zoom: 819 1449 9389)
+  - Online (Zoom: 875 7654 2812, Password: 497408)
 
 ### Program committee
 
