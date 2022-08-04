@@ -24,7 +24,7 @@
 
 - #### Detail schedule
 
-  - 7 Aug
+  - 7th Aug.  09.00- 12.00（UTC +4），13.00- 16.00（UTC +8）
 
     | Time          | Activity                                   |
     | ------------- | ------------------------------------------ |
@@ -45,7 +45,7 @@
 
 - #### How to participate
 
-  - Add a comment with your email to issue #1.
+  - Add a comment with your email to [issue #1](https://github.com/newtonproject/workshop/issues/1).
 
 - #### Participate way
 
