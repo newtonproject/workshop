@@ -20,19 +20,17 @@
 
 - #### Total time
 
-  - 3 Hours
+  - 90 mins
 
 - #### Detail schedule
 
-  - 7th Aug.  09.00- 12.00（UTC +4），13.00- 16.00（UTC +8）
+  - 7th Aug.  09.00- 10.30（UTC +4），13.00- 14.30（UTC +8）
 
     | Time          | Activity                                   |
     | ------------- | ------------------------------------------ |
     | 13:00 - 13:20 | Introduce EVT & Show code                  |
-    | 13:20 - 14:00 | Practice                                   |
-    | 14:00 - 14:30 | Break                                      |
-    | 14:30 - 15:30 | Create your EVT                            |
-    | 15:30 - 16:00 | Show your EVT                              |
+    | 13:20 - 13:40 | Practice                                   |
+    | 13:40 - 14:30 | Create your EVT & Show your EVT            |
 
 
 ### Participate
