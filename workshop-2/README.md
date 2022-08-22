@@ -50,5 +50,4 @@
 
 - #### Participate way
 
-  - Online (Zoom: 849 4565 8287, Password: 229898)   [https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09
-](https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09
+  - Online (Zoom: 849 4565 8287, Password: 229898)   [https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09](https://us02web.zoom.us/j/84945658287?pwd=bjZVNmpaVFNocEVUUlRPZ3J2dTVQZz09)  
