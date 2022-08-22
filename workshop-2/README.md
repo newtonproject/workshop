@@ -1,4 +1,4 @@
-## Building scenes on Andverse - Draft
+## Building scenes on Andverse 
 
 ### Intro
 
