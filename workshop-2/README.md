@@ -34,7 +34,7 @@
     | 14:00 - 14:20 | Experience the metauniverse of Andverse    |
     | 14:20 - 14:40 | Skill learning                             |
     | 14:40 - 15:20 | Create your scenes & Deploy your scenes    |
-    | 15:20 - 16:00 | Q & A    |
+    | 15:20 - 15:30 | Q & A    |
 
 ### Participate
 
