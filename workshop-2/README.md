@@ -39,10 +39,13 @@
 ### Participate
 
 - #### Who should attend
-
-  - Blockchain developer
-  - Interested in digital items
-  - Interested in metaverse
+  - Enthusiasts, owners and researchers of digital products
+  - Blockchain developers
+  - Those who are interested in blockchain API and DID
+  - Investors and initiators of digital projects
+  - People in the blockchain community
+  - Defi researchers
+  - Metaverse lovers
 
 - #### How to participate
 
